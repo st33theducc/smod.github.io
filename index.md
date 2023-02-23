@@ -3,7 +3,7 @@ layout: default
 ---
 
 <p align="center">
-  <img width="100%" src="alpha_msg.svg">
+  <img width="100%" src="/alpha_msg.svg">
 </p>
 
 ### smod

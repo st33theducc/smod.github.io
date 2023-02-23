@@ -2,6 +2,10 @@
 layout: default
 ---
 
+<p align="center">
+  <img width="100%" src="alpha_msg.svg">
+</p>
+
 ### smod
 a gmod alternative that is just that pure hl2
 (modified hud to be blue hope that dosen't bother you)

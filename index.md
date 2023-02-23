@@ -2,11 +2,6 @@
 layout: default
 ---
 
-<p align="center">
-  <img width="100%" src="https://gist.githubusercontent.com/Kattjakt/323e6196c86c2bb35b3931bfe726d4d5/raw/44a08287b23d9f4044ba2b98ba5164470a09470f/github-markdown-alerts_info.svg">
-  alpha coming out soon
-</p>
-
 ### smod
 a gmod alternative that is just that pure hl2
 (modified hud to be blue hope that dosen't bother you)

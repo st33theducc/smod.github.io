@@ -3,9 +3,8 @@ layout: default
 ---
 
 <p align="center">
-  <img width="100%" src="/alpha_msg.svg">
+  <img width="100%" src="alpha_msg.svg">
 </p>
-![idfkkk](/alpha_msg.svg)
 
 ### smod
 a gmod alternative that is just that pure hl2
